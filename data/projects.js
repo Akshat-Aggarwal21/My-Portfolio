@@ -1,16 +1,3 @@
-/**
- * Projects Data
- * ─────────────────────────────────────────────────────────────────────────────
- * To ADD a project: copy an object, increment id, fill all fields.
- * To EDIT: change values here — UI renders dynamically.
- * ─────────────────────────────────────────────────────────────────────────────
- *
- * ⚡ AFTER DEPLOYMENT — update project id:4 links:
- *   github: "https://github.com/Akshat-Aggarwal21/akshat-portfolio"
- *   demo:   "https://akshat-portfolio.vercel.app"
- * ─────────────────────────────────────────────────────────────────────────────
- */
-
 export const projects = [
   {
     id: 1,
