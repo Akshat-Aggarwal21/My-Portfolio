@@ -128,7 +128,7 @@ export const projects = [
     color: "#38bdf8",
     featured: true,
     github: "https://github.com/Akshat-Aggarwal21/My-Portfolio",
-    demo: "https://akshat-portfolio.vercel.app",
+    demo: "https://my-portfolio-gules-delta-15.vercel.app/",
     modal: {
       problem:
         "Most developer portfolios are static, generic, and forgettable — they list skills and projects but fail to communicate personality, depth, or engineering quality. A portfolio should itself be a demonstration of skill.",
