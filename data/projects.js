@@ -140,8 +140,7 @@ export const projects = [
     ],
     color: "#38bdf8",
     featured: true,
-    // ⚡ UPDATE THESE after deployment:
-    github: "https://github.com/Akshat-Aggarwal21/akshat-portfolio",
+    github: "https://github.com/Akshat-Aggarwal21/My-Portfolio",
     demo: "https://akshat-portfolio.vercel.app",
     modal: {
       problem:
