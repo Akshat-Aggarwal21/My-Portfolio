@@ -187,20 +187,20 @@ export default function Projects() {
         <div className="max-w-7xl mx-auto">
 
           {/* Header row */}
-          <div ref={headerRef}>
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={inView ? { opacity: 1, y: 0 } : {}}
-              transition={{ duration: 0.6 }}
-              className="flex flex-col md:flex-row md:items-end justify-between gap-8 mb-6"
-            >
-              <div>
-                <SectionLabel index="04" label="Projects" />
-                <h2 className="font-display text-5xl md:text-6xl font-black tracking-tighter">
-                  Things I've<br />
-                  <span className="text-acid">Built.</span>
-                </h2>
-              </div>
+         <div ref={headerRef}>
+  <SectionLabel index="04" label="Projects" />
+  <motion.div
+    initial={{ opacity: 0, y: 20 }}
+    animate={inView ? { opacity: 1, y: 0 } : {}}
+    transition={{ duration: 0.6 }}
+    className="flex flex-col gap-4 mb-6"
+  >
+    <div>
+      <h2 className="font-display text-5xl md:text-6xl font-black tracking-tighter">
+        Things I've<br />
+        <span className="text-acid">Built.</span>
+      </h2>
+    </div>
 
               {/* Filter pills */}
               <div className="flex flex-wrap gap-2">
