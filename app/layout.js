@@ -3,7 +3,7 @@ import './globals.css'
 export const metadata = {
   title: 'Akshat Aggarwal — ML Engineer & Data Analyst',
   description: 'Building intelligent systems that scale. Machine Learning Engineer specializing in AI, deep learning, and data-driven solutions.',
-  keywords: 'Akshat Aggarwal, Machine Learning Engineer, Data Analyst, AI, TensorFlow, Python, Portfolio',
+  keywords: 'Akshat Aggarwal, Machine Learning Engineer, Data Analyst, Software Enginner,  AI, TensorFlow, Python developer, Python, Portfolio',
   authors: [{ name: 'Akshat Aggarwal' }],
   openGraph: {
     title: 'Akshat Aggarwal — ML Engineer & Data Analyst',
