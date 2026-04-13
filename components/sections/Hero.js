@@ -5,7 +5,7 @@ import { motion } from 'framer-motion'
 import { useMouseParallax } from '../../utils/parallax'
 import { useAnalytics } from '../../hooks/useAnalytics'
 
-const ROLES = ['Machine Learning Engineer', 'Data Analyst', 'AI Systems Builder']
+const ROLES = ['Machine Learning Engineer', 'Data Analyst', 'Software Engineer', 'AI Systems Builder', 'Python Developer']
 
 const container = {
   hidden: {},
